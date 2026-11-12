@@ -416,7 +416,7 @@ Light Mode diatur lewat aturan CSS di konstanta `GLOBAL_CSS` pada `App.jsx`. Tam
 
 ### Dibuat dengan ❤️ untuk **Toko Gemilang Jaya**
 
-*Jl. Sisingamangaraja No. 88, Medan*
+*Toko Gemilang Jaya, Jl. Marelan Raya No.02B, Paya Pasir, Kec. Medan Marelan, Kota Medan, Sumatera Utara 20255*
 
 ⭐ Semoga usaha semakin lancar dan laris manis! ⭐
 
